@@ -1,0 +1,2 @@
+# SQL-Top-10-SQL-Questions
+Top 10 SQL Questions ASKED IN PRODUCT/SERVICE BASED COMP.
